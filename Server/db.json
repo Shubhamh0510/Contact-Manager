@@ -1,0 +1,46 @@
+{
+  "contact": [
+    {
+      "id": "f31d",
+      "name": "Shubham",
+      "photo": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=626&ext=jpg",
+      "contact": "1234567890",
+      "mail": "shubham@gmail.com",
+      "title": "Developer",
+      "company": "TCS",
+      "group": "4"
+    },
+    {
+      "id": "791a",
+      "name": "Tushar",
+      "photo": "https://img.freepik.com/premium-photo/memoji-happy-man-white-background-emoji_826801-6839.jpg?size=626&ext=jpg&ga=GA1.1.847082479.1712227289&semt=sph",
+      "contact": "1234567891",
+      "mail": "tushar@gmail.com",
+      "title": "Test Engineer",
+      "company": "Wipro",
+      "group": "4"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "group": "Family"
+    },
+    {
+      "id": "2",
+      "group": "Friends"
+    },
+    {
+      "id": "3",
+      "group": "Colleague"
+    },
+    {
+      "id": "4",
+      "group": "Social"
+    },
+    {
+      "id": "5",
+      "group": "Work"
+    }
+  ]
+}

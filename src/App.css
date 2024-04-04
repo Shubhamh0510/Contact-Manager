@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+body{
+    font-family: 'Tektur', sans-serif !important;
+    background-color: darkseagreen !important;
+}
+.contact-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
